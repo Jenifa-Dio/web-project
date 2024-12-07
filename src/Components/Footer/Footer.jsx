@@ -61,12 +61,12 @@ const contctInfo = [
     {
         id: 10,
         icon:<FaPhone/>,
-        title:"+(012)99999999",
+        title:"+xxxxxxx",
     },
     {
         id: 11,
         icon:<MdEmail/>,
-        title:"mughnirayhan22@gmail.com",
+        title:"diojenifakorneli@gmail.com",
     },
     
 ]
